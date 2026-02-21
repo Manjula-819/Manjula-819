@@ -1,5 +1,5 @@
 # 💫 About Me:
- Contributed to the Data for Common Good (D4CG) Resource Viewer Project in Google Summer Of Code 2025<br>📚 Studied Master's in Computer Applications at Jawaharlal Nehru Technological University<br>⚡ Fun fact: Always up for a Coffee and a coding session
+Contributed to the Data for Common Good (D4CG) FHIR Resource Tabular Viewer Project in Google Summer Of Code 2025<br>📚 Studied Master's in Computer Applications at Jawaharlal Nehru Technological University<br>⚡ Fun fact: Always up for a Coffee and a coding session
 
 
 ## 🌐 Socials:

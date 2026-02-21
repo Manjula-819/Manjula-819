@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Studied Master's in Computer Applications at Jawaharlal Nehru Technological University<br>🔭 Contributed to the Data for Common Good (D4CG) Resource Viewer Project in Google Summer Of Code 2025<br>👯 I’m looking to collaborate on Development Projects<br>🌱 I’m currently learning Django<br>💬 Ask me about web Development<br>⚡ Fun fact: Always up for a Coffee and a coding session
+ Contributed to the Data for Common Good (D4CG) Resource Viewer Project in Google Summer Of Code 2025<br>📚 Studied Master's in Computer Applications at Jawaharlal Nehru Technological University<br>⚡ Fun fact: Always up for a Coffee and a coding session
 
 
 ## 🌐 Socials:
